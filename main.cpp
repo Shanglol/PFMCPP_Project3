@@ -254,3 +254,8 @@ int main()
 {
     std::cout << "good to go!" << std::endl;
 }
+
+struct Student 
+{
+
+}
